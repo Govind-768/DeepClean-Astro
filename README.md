@@ -46,7 +46,7 @@
 
 | Noisy Input | Denoised Output |
 |-------------|-----------------|
-|(![WhatsApp Image 2025-05-13 at 9 37 25 AM](https://github.com/user-attachments/assets/4eebee67-5044-45ff-aa6a-3861c119e295)) | ![WhatsApp Image 2025-05-13 at 9 37 24 AM](https://github.com/user-attachments/assets/9c31d6f4-bde8-48d1-b7bf-98fe77fc3af6)|
+|![WhatsApp Image 2025-05-13 at 9 37 25 AM](https://github.com/user-attachments/assets/4eebee67-5044-45ff-aa6a-3861c119e295)| ![WhatsApp Image 2025-05-13 at 9 37 24 AM](https://github.com/user-attachments/assets/9c31d6f4-bde8-48d1-b7bf-98fe77fc3af6)|
 
 > *All images are grayscale and resized to 128×128.*
 
@@ -99,13 +99,14 @@
 | 🧪 Run in Colab | [Open Notebook](https://colab.research.google.com/drive/1Rk6mJDmfAHJYowp8zS7isJGravmoOjPG?usp=sharing) |
 | 📁 Sample Dataset | [Download](https://github.com/your-username/image-denoising-astro/releases/latest) |
 | 📸 Upload Image & Denoise | Use the upload widget in the notebook |
+![WhatsApp Image 2025-05-13 at 9 37 25 AM (1)](https://github.com/user-attachments/assets/e4d87fea-8ead-42e4-b158-f747e9efb00a)
 
 ---
 
 ## 📬 Feedback or Contributions
 
 Have suggestions? Found a bug?  
-Open an [issue](https://github.com/your-username/image-denoising-astro/issues) or submit a [pull request](https://github.com/Govind-768/DeepClean-Astro/compare)!
+Open an [issue](https://github.com/govind-768/image-denoising-astro/issues) or submit a [pull request](https://github.com/Govind-768/DeepClean-Astro/compare)!
 
 ---
 
