@@ -46,7 +46,9 @@
 
 | Noisy Input | Denoised Output |
 |-------------|-----------------|
-| ![Noisy](assets/noisy_sample.png) | ![Clean](assets/denoised_sample.png) |
+| ![Noisy](![WhatsApp Image 2025-05-13 at 9 37 25 AM](https://github.com/user-attachments/assets/4eebee67-5044-45ff-aa6a-3861c119e295)
+) | ![Clean](![WhatsApp Image 2025-05-13 at 9 37 24 AM](https://github.com/user-attachments/assets/418844f7-2895-4da1-b523-66719e7f4bff)
+) |
 
 > *All images are grayscale and resized to 128×128.*
 
@@ -96,7 +98,7 @@
 
 | Feature | Link |
 |--------|------|
-| 🧪 Run in Colab | [Open Notebook](https://colab.research.google.com/github/your-username/image-denoising-astro/blob/main/denoising_autoencoder.ipynb) |
+| 🧪 Run in Colab | [Open Notebook](https://colab.research.google.com/drive/1Rk6mJDmfAHJYowp8zS7isJGravmoOjPG?usp=sharing) |
 | 📁 Sample Dataset | [Download](https://github.com/your-username/image-denoising-astro/releases/latest) |
 | 📸 Upload Image & Denoise | Use the upload widget in the notebook |
 
