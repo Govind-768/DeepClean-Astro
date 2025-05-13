@@ -48,7 +48,7 @@
 
 | Noisy Input | Denoised Output |
 |-------------|-----------------|
-|![WhatsApp Image 2025-05-13 at 9 37 25 AM](https://github.com/user-attachments/assets/4eebee67-5044-45ff-aa6a-3861c119e295)| ![WhatsApp Image 2025-05-13 at 9 37 24 AM](https://github.com/user-attachments/assets/9c31d6f4-bde8-48d1-b7bf-98fe77fc3af6)|
+|!(https://github.com/user-attachments/assets/4eebee67-5044-45ff-aa6a-3861c119e295)| !(https://github.com/user-attachments/assets/9c31d6f4-bde8-48d1-b7bf-98fe77fc3af6)|
 
 > *All images are grayscale and resized to 128×128.*
 
