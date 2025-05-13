@@ -105,7 +105,7 @@
 ## 📬 Feedback or Contributions
 
 Have suggestions? Found a bug?  
-Open an [issue](https://github.com/your-username/image-denoising-astro/issues) or submit a [pull request](https://github.com/your-username/image-denoising-astro/pulls)!
+Open an [issue](https://github.com/your-username/image-denoising-astro/issues) or submit a [pull request](https://github.com/Govind-768/DeepClean-Astro/compare)!
 
 ---
 
