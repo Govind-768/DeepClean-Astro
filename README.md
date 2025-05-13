@@ -63,12 +63,19 @@
 
 📂 image-denoising-astro
 │
+
 ├── denoising_autoencoder.ipynb # Main Colab-compatible notebook
+
 ├── image_denoiser_model.h5 # Saved model after training
+
 ├── assets/
+
 │ ├── noisy_sample.png # Example noisy image
+
 │ └── denoised_sample.png # Corresponding clean output
+
 ├── dataset.zip # (Optional) zipped dataset
+
 └── README.md # This file
 
 
